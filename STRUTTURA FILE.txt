@@ -1,0 +1,14 @@
+STRUTTURA FILE
+
+1 giocatore---> classe logica e grafica
+thread pallina---> classe logica e grafica(con texture)
+thread bonus cascanti----> classe logica e grafica
+blocchi che si spaccano----> classe logica e grafica
+file di grafica (swing demo etcetc)
+
+-optionals-
+menu di start/iniziale
+pausa
+
+
+
