@@ -55,7 +55,7 @@ public class Punto{
     @param  par1 y del punto
     */
     public void setY(double y){
-        this.x = y;
+        this.y = y;
     }
 
     /**
